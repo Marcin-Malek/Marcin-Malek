@@ -9,7 +9,7 @@
 
 - 📚 I wish i knew **React Native**
 
-- 👨‍💻 All of my projects are available at [my personal homepage](https://marcin-malek.github.io/personal-homepage/)
+- 👨‍💻 All of my projects are available at **[my personal homepage](https://marcin-malek.github.io/personal-homepage/)**
 
 - 📫 Reach out to me at **marcinmalek01@gmail.com**
 
