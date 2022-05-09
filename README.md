@@ -1,7 +1,7 @@
 # Hi 👋, I'm Marcin
 ### A passionate Frontend Developer with a thirst for knowledge.
 
-- 🔭 I’m currently working on **my Github Readme**
+- 🔭 I’m currently working on **discussion-board Repository**
 
 - 🌱 I’m currently learning **TypeScript**
 
