@@ -1,7 +1,7 @@
 # Hi 👋, I'm Marcin
 ### A passionate Frontend Developer with a thirst for knowledge.
 
-- 🔭 I’m currently working on **[discussion-board Repository](https://github.com/Marcin-Malek/discussion-board)**
+- 🔭 I’m currently working on **[Movies Browser project](https://github.com/Marcin-Malek/movies-browser)**
 
 - 🌱 I’m currently learning **TypeScript**
 
