@@ -1,11 +1,9 @@
 # Hi 👋, I'm Marcin
 ### A passionate Frontend Developer with a thirst for knowledge.
 
-- 🔭 I’m currently working on **[Movies Browser project](https://github.com/Marcin-Malek/movies-browser)**
+- 👯 I’m working as a **Frontend Developer**
 
 - 🌱 I’m currently learning **TypeScript**
-
-- 👯 I’m looking for a job as a **Frontend Developer**
 
 - 📚 I wish i knew **React Native**
 
