@@ -3,9 +3,9 @@
 
 - 👯 I’m working as a **Frontend Developer**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **C++**
 
-- 📚 I wish i knew **React Native**
+- 📚 I’m going to learn **React Native** and **Python** next
 
 - 👨‍💻 All of my projects are available at **[my personal homepage](https://marcin-malek.github.io/personal-homepage/)**
 
